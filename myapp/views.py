@@ -95,3 +95,11 @@ def reg(request):
 #django-admin startproject mysite – создание проекта
 # python manage.py startapp myapp
 #Python manage.py runserver
+
+
+
+
+#git init
+#git status
+#git add .
+#git commit -m "msg"
